@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+    color: white;
+    font-family: overpass;
+}
+.container{
+    
+        height: 350px;
+        width: 500px;
+        align-items: center;
+        justify-content: center;
+        margin-top: 250px;
+        background-color:hsl(213, 19%, 18%);
+        margin-left: 500px;
+        border-radius: 10px 10px 10px 10px;
+    
+}
+.img{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.rate{
+    width: 200px;
+    height: 30px;
+    margin-left: 150px;
+    padding-top: 8px;
+    padding-left: 10px;
+    color:orangered;
+    background-color: rgb(59, 57, 57);
+border-radius: 20px 20px 20px 20px;
+}
+
+.thanq{
+    margin-left: 150px;
+}
+.appreciate{
+    
+   
+    width: 300px;
+    margin-left: 90px;
+}
